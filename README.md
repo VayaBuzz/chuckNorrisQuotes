@@ -1,1 +1,1 @@
-# Chuck Norris Quotes
+# Chuck Norris Quote Generator
